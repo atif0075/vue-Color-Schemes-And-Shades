@@ -1,4 +1,4 @@
-# vuetail
+# Vue Color Scheme and Shades
 
 ## Project setup
 ```
